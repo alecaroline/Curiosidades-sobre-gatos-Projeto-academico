@@ -1,4 +1,4 @@
-# web-1
+# Desenvolvimento Web 1
 
 **Para avaliação foram exigidos os seguintes requisitos:**
 
