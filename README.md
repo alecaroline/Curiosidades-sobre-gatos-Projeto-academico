@@ -13,3 +13,21 @@ Tecnologias utilizadas durante o projeto 💻
 * Javascript
 * HTML
 * CSS
+
+_________________________________________________________________________________________________________
+
+# Web Development
+
+**The following requirements were requested for evaluation:**
+
+* Two fetch requests to an API.
+* Assemble a list of cards based on the API's response.
+* Create a Modal to add new cards to the list.
+* Create a Modal to edit the values of the cards.
+* Delete an element from the list.
+* Use an EventListener to create a mouseenter and mouseleave effect.
+
+Technologies used during the project 💻
+*Javascript
+*HTML
+*CSS
