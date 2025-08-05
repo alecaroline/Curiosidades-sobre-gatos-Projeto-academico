@@ -15,6 +15,7 @@ Tecnologias utilizadas durante o projeto 💻
 * CSS
 
 
+_________________________________________________________________________
 
 
 # Web Development
@@ -29,6 +30,6 @@ Tecnologias utilizadas durante o projeto 💻
 * Use an EventListener to create a mouseenter and mouseleave effect.
 
 Technologies used during the project 💻
-*Javascript
-*HTML
-*CSS
+* Javascript
+* HTML
+* CSS
