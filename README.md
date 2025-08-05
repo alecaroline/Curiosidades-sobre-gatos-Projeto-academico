@@ -15,7 +15,7 @@ Tecnologias utilizadas durante o projeto 💻
 * CSS
 
 
-_________________________________________________________________________
+
 
 
 # Web Development
